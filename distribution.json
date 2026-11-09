@@ -8,7 +8,7 @@
       "description": "太空冒險伺服器測試版",
       "icon": "",
       "version": "0.1.0",
-      "address": "localhost:25565",
+      "address": "123.241.207.57:25565",
       "minecraftVersion": "26.3",
       "mainServer": true,
       "autoconnect": true,
