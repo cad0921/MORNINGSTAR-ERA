@@ -93,7 +93,7 @@
               "type": "VersionManifest",
               "artifact": {
                 "size": 3263,
-                "MD5": "b0f724b0a61811651fd969405b81f270",
+                "MD5": "9a0083334a47eb7a6ff56bd9f51d0919",
                 "url": "https://cad0921.github.io/MORNINGSTAR-ERA/versions/fabric-loader-0.20.1-26.3.json"
               }
             }
@@ -142,7 +142,7 @@
           }
         },
         {
-          "id": "spacem.mods:spacem:0.4.9",
+          "id": "spacem.mods:spacem:0.4.10",
           "name": "晨星紀元",
           "type": "FabricMod",
           "required": {
@@ -150,9 +150,9 @@
             "def": true
           },
           "artifact": {
-            "size": 3374805,
-            "MD5": "8dc6f964eac469af7dcd7ed282012ce1",
-            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/spacem-0.4.9.jar"
+            "size": 4238895,
+            "MD5": "3ccc5a73ad9d5b1bca8a60fb8ae3443d",
+            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/spacem-0.4.10.jar"
           }
         },
         {
