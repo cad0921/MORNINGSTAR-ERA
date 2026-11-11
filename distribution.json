@@ -114,6 +114,20 @@
           }
         },
         {
+          "id": "spacem.mods:geckolib:5.5.7",
+          "name": "GeckoLib 5",
+          "type": "FabricMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1191230,
+            "MD5": "54885c7a0bed961dc9f2219fd2790370",
+            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/geckolib-5.5.7.jar"
+          }
+        },
+        {
           "id": "spacem.mods:iris:1.11.7-mc26.3",
           "name": "Iris",
           "type": "FabricMod",
@@ -142,7 +156,7 @@
           }
         },
         {
-          "id": "spacem.mods:spacem:0.4.37",
+          "id": "spacem.mods:spacem:0.4.38",
           "name": "晨星紀元",
           "type": "FabricMod",
           "required": {
@@ -150,9 +164,9 @@
             "def": true
           },
           "artifact": {
-            "size": 4866727,
-            "MD5": "3540362d0da132c36b430ab21d964ea7",
-            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/spacem-0.4.37.jar"
+            "size": 4919957,
+            "MD5": "17b253da2546aa97e2a4f029afa0d642",
+            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/spacem-0.4.38.jar"
           }
         },
         {
