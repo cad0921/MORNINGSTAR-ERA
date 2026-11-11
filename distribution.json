@@ -142,7 +142,7 @@
           }
         },
         {
-          "id": "spacem.mods:spacem:0.4.35",
+          "id": "spacem.mods:spacem:0.4.36",
           "name": "晨星紀元",
           "type": "FabricMod",
           "required": {
@@ -150,9 +150,9 @@
             "def": true
           },
           "artifact": {
-            "size": 4881189,
-            "MD5": "00e2247147215e8cb1b0f88b6eb4c240",
-            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/spacem-0.4.35.jar"
+            "size": 4866595,
+            "MD5": "8987f3370ce64465a2ea4709598baa1f",
+            "url": "https://cad0921.github.io/MORNINGSTAR-ERA/mods/spacem-0.4.36.jar"
           }
         },
         {
